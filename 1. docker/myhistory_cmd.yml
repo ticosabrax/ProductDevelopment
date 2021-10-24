@@ -1,0 +1,176 @@
+  372  docker help
+  373  docker
+  374  clear
+  375  docker help
+  376  docker p
+  377  docker ps
+  378  docker --help
+  379  docker pull http:2.4
+  380  docker pull httpd:2.4
+  381  docker images
+  382  cd /Users/esaban/Desktop/docker
+  383  pwd
+  384  ls
+  385  docker build -t myApache .
+  386  docker build -t myapache .
+  387  docker pull httpd:2.4
+  388  docker build -t myapache .
+  389  docker images
+  390  docker --version
+  391  docker build -t myapache Dockerfile.dockerfile
+  392  docker build -t myapache .
+  393  docker scan
+  394  docker scan --accept-license
+  395  clear
+  396  docker run -p 8080:80 myapache
+  397  docker run -p 8000:80 myapache
+  398  docker status
+  399  docker images
+  400  docker ps
+  401  docker run -p 8000:80 myapache
+  402  doc ps
+  403  docker ps
+  404  docker rm -fv 190898dcb9dc
+  405  docker ps
+  406  docker run -p 8000:80 myapache
+  407  docker ps
+  408  docker rm -fv 4000eec4217b
+  409  docker ps
+  410  docker build -t myapache .
+  411  docker run -p 8000:80 myapache
+  412  docker ps
+  413  docker build -t myapache .
+  414  docker run -p 8000:80 myapache
+  415  docker ps
+  416  clear
+  417  docker ps
+  418  docker rm -fv 4f52fa4a9f28
+  419  docker
+  420  docker ps
+  421  exit
+  422  docker run -p 8000:80 myapache
+  423  docker ps
+  424  clear
+  425  exit
+  426  docker ps
+  427  docker images ls
+  428  docker images
+  429  docker run -p 8000:80 myapache
+  430  docker ps
+  431  docker ps -a
+  432  docker images
+  433  docker ps
+  434  docker ps -a
+  435  docker rm -fv b2729eb152a2
+  436  docker rm -fv 2c30037ba0f5
+  437  docker rm -fv 30908b4181c3
+  438  docker rm -fv d7ce7236328f
+  439  docker ps -a
+  440  docker rm -fv 614debe502ea
+  441  docker ps -a
+  442  docker images
+  443  rmi a9068ed4ae58
+  444  docker rmi a9068ed4ae58
+  445  docker images
+  446  docker rmi be1298ceb0ad
+  447  docker rmi 5861867d2531
+  448  docker rmi 2606d042e3b1
+  449  docker images
+  450  clear
+  451  lc
+  452  docker run -dti -p 3306:3306 --name mydb e- MYSQL_ROOT_PASSWORD=123456 -e MYSQL_DATABASE=example mysql:5.6
+  453  docker run -dti -p 3306:3306 --name mydb -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_DATABASE=example mysql:5.6
+  454  docker pd
+  455  docker ps
+  456  docker logs -f c5f5fdd8edf8
+  457  docker ps
+  458  docker stop c5f5fdd8edf8
+  459  docker ps
+  460  docker rm -fv c5f5fdd8edf8
+  461  docker ps -a
+  462  docker images
+  463  docker rmi mysql
+  464  docker rmi 8d06d2d16232
+  465  docker images
+  466  docker run -d -p 80:80 docker/getting-started
+  467  docker ps
+  468  docker exec -it 1eaa6ac68862e88a777258ccef37e13fefdabdfa5f4396bef28b96d8e2dee391 /bin/sh
+  469  exit
+  470  docker ps
+  471  docker run hello-world
+  472  docker ps
+  473  docker ps -a
+  474  docker pull busybox
+  475  docker images
+  476  docker ps
+  477  docker ps -a
+  478  docker run busybox
+  479  docker ps
+  480  docker run busybox echo "hello from busybox"
+  481  docker ps
+  482  docker stop 1eaa6ac68862
+  483  docker ps
+  484  docker ps -al
+  485  docker ps -a
+  486  docker run -it busybox sh
+  487  clear
+  488  docker run -it busybox sh
+  489  docker container prune
+  490  docker ps -a
+  491  docker images
+  492  docker rmi  feb5d9fea6a5
+  493  docker rmi 16ea53ea7c65
+  494  docker rmi 083d7564d904
+  495  docker ps -a
+  496  docker images -a
+  497  docker pull jupyter/base-notebook
+  498  docker run -p 8888:8888 jupyter/base-notebook
+  499  docker ps
+  500  docker stop boring_hertz
+  501  docker
+  502  clear
+  503  docker ps
+  504  docker network create --driver bridge my_test_network
+  505  docker ps
+  506  docker run -it --network my_test_network -e "MYSQL_ROOT_PASSWORD=root123" -e "MYSQL_DATABASE=test" -e "MYSQL_USER=test" -e "MYSQL_PASSWORD=test123" mysql:5.7.35
+  507  docker ps
+  508  docker rm -vf b01a647bef97
+  509  docker ps
+  510  docker run -it --network my_test_network -p 3306:3306 -e "MYSQL_ROOT_PASSWORD=root123" -e "MYSQL_DATABASE=test" -e "MYSQL_USER=test" -e "MYSQL_PASSWORD=test123" mysql:5.7.35
+  511  docker ps
+  512  docker run --network my_test_network -p 8888:8888 jupyter/base-notebook
+  513  doc ps
+  514  docker ps
+  515  docker network inspect my_test_network
+  516  docker --version
+  517  docker ps
+  518  docker stop b42727da4d74
+  519  docker ps
+  520  docker ps -a
+  521  docker start be761c444b2e
+  522  docker ps
+  523  docker stop be761c444b2e
+  524  docker start ed0e32f429c0
+  564  docker ps
+  565  docker ps -a
+  566  docker img
+  567  docker --hel
+  568  docker image
+  569  docker image ls
+  570  clear
+  571  docker image ls
+  572  clear
+  573  docker
+  574  clear
+  575  docker --version
+  576  clear
+  577  docker --version
+  578  clear
+  579  docker --version
+  580  clear
+  581  git status
+  582  clear
+  583  docker ps -a
+  584  clear
+  585  docker ps -a
+  586  docker ps
